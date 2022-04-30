@@ -1,0 +1,32 @@
+{
+    "Items": [
+        {
+            "Name": "Test",
+            "Score": 3
+        },
+        {
+            "Name": "defaultName",
+            "Score": 3
+        },
+        {
+            "Name": "Pavel​",
+            "Score": 7
+        },
+        {
+            "Name": "defaultName",
+            "Score": 3
+        },
+        {
+            "Name": "Loneg",
+            "Score": 7
+        },
+        {
+            "Name": "Loneg",
+            "Score": 0
+        },
+        {
+            "Name": "Loneg",
+            "Score": 29
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f216c7c5adb0d51459b63fb5d591fed5, type: 3}
+  m_Name: EasyBallonsSpawnSettings
+  m_EditorClassIdentifier: 
+  _startSpawnSpeed: 0.5
+  _endSpawnSpeed: 1
+  _spawnSpeedIncrease: 0.25
+  _speedIncreaseFrequency: 2
+  _ballonsPrefabs:
+  - {fileID: -8605183274603827772, guid: 4f2f1c7a08f030747aa25df99b196062, type: 3}
+  - {fileID: -8605183274603827772, guid: 8b974a91559b2df46ab3b544ca6b72b8, type: 3}
+  - {fileID: -8605183274603827772, guid: beb19c10d10284d4cb5f7a294a4a6bff, type: 3}
+  - {fileID: -8605183274603827772, guid: 5154cbc1580ef2f499abbcc7d204eac6, type: 3}
+  - {fileID: -8605183274603827772, guid: 39da2c48be5bc63468e1a89366b0a18e, type: 3}
+  - {fileID: -8605183274603827772, guid: 4ddf6945b4d935f4c961ef4eca4065ad, type: 3}
+  - {fileID: -8605183274603827772, guid: 353bc616c6f84494cacb0ee55929781e, type: 3}
+  - {fileID: -8605183274603827772, guid: 84c3095bdeb109442938f203e669dc91, type: 3}
